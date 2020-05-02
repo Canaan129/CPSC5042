@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4d963c5f-14e0-49f8-a5e2-ee39b4a04d43" name="CS1" url="http://cs1.seattleu.edu">
+        <fileTransfer host="cs1.seattleu.edu" port="22" rootFolder="/home/st/jwang2" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
